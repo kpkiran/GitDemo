@@ -1,0 +1,7 @@
+20:58:55.182 [main] INFO  org.framework.resources.Base - Windows maximized
+20:58:55.259 [main] INFO  org.framework.resources.Base - Successfully validated the text message
+20:58:55.336 [main] INFO  org.framework.resources.Base - Navigation bar is displayed
+21:07:42.645 [main] INFO  org.framework.resources.Base - Driver is initialized
+21:07:47.214 [main] INFO  org.framework.resources.Base - Navigated to home page
+21:07:47.362 [main] INFO  org.framework.resources.Base - Windows maximized
+21:07:47.446 [main] INFO  org.framework.resources.Base - Successfully validated the text message

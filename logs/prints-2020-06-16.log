@@ -1,0 +1,6 @@
+14:35:37.107 [TestNG-tests-1] INFO  org.framework.resources.Base - Driver is initialized
+14:35:42.057 [TestNG-tests-2] INFO  org.framework.resources.Base - Navigated to home page
+14:35:42.093 [TestNG-tests-2] INFO  org.framework.resources.Base - Successfully validated the text message
+14:35:42.153 [TestNG-tests-2] INFO  org.framework.resources.Base - Navigation bar is displayed
+14:35:42.187 [TestNG-tests-1] INFO  org.framework.resources.Base - URL is opened
+14:35:48.714 [TestNG-tests-1] INFO  org.framework.resources.Base - Login button is clicked

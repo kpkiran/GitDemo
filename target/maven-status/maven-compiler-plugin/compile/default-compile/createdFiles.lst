@@ -1,0 +1,5 @@
+org/framework/pageObjects/ForgotPassword.class
+org/framework/resources/Base.class
+org/framework/pageObjects/LoginPage.class
+org/framework/pageObjects/LandingPage.class
+org/framework/resources/ExtentReportNG.class

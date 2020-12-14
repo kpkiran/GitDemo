@@ -1,0 +1,7 @@
+19:27:49.167 [main] INFO  org.framework.resources.Base - Login button is clicked
+19:39:11.060 [main] INFO  org.framework.resources.Base - Driver is initialized
+19:39:14.243 [main] INFO  org.framework.resources.Base - URL is opened
+19:39:19.480 [main] INFO  org.framework.resources.Base - Login button is clicked
+19:39:19.863 [main] INFO  org.framework.resources.Base - Username is entered abra@abc.com
+19:39:20.006 [main] INFO  org.framework.resources.Base - Password is entered 123e343r
+19:39:20.092 [main] INFO  org.framework.resources.Base - Sign in button is clicked

@@ -1,0 +1,4 @@
+06:49:24.634 [main] INFO  org.framework.resources.Base - Password is entered 123e343r
+06:49:24.798 [main] INFO  org.framework.resources.Base - Sign in button is clicked
+06:49:26.463 [main] INFO  org.framework.resources.Base - URL is opened
+06:49:27.276 [main] INFO  org.framework.resources.Base - Login button is clicked

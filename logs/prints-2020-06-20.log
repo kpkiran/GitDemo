@@ -1,0 +1,7 @@
+07:50:12.094 [main] INFO  org.framework.resources.Base - Navigation bar is displayed
+07:50:13.984 [main] INFO  org.framework.resources.Base - Driver is initialized
+07:50:17.368 [main] INFO  org.framework.resources.Base - URL is opened
+07:50:22.881 [main] INFO  org.framework.resources.Base - Login button is clicked
+07:50:23.360 [main] INFO  org.framework.resources.Base - Username is entered abra@abc.com
+07:50:23.440 [main] INFO  org.framework.resources.Base - Password is entered 123e343r
+07:50:23.595 [main] INFO  org.framework.resources.Base - Sign in button is clicked

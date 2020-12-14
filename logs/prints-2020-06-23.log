@@ -1,0 +1,7 @@
+06:46:19.534 [main] INFO  org.framework.resources.Base - URL is opened
+06:46:20.212 [main] INFO  org.framework.resources.Base - Login button is clicked
+06:49:15.860 [main] INFO  org.framework.resources.Base - Driver is initialized
+06:49:16.567 [main] INFO  org.framework.resources.Base - Url is set. Capabilities is set.
+06:49:20.002 [main] INFO  org.framework.resources.Base - URL is opened
+06:49:24.176 [main] INFO  org.framework.resources.Base - Login button is clicked
+06:49:24.451 [main] INFO  org.framework.resources.Base - Username is entered abra@abc.com
